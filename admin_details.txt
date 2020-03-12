@@ -1,0 +1,22 @@
+
+'hostname' => localhost
+'username' => phpdark_jalal
+'password' => explore@#%$
+'database' => phpdark_jalal
+'dbdriver' => mysqli
+
+
+
+
+================FTP Details =======================
+
+'username' 	=> adminphpdark@phpdark.com
+'host' 		=> ftp.phpdark.com
+'password' 	=> @PHP@dark#2019
+FTP Port	=>  21
+
+
+
+============website login==========
+username: admin
+password: PHPDark@admin2019@#

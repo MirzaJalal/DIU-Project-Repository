@@ -1,0 +1,13 @@
+{
+    "name": "arifulislam/jalal",
+    "description": "Test",
+    "authors": [
+        {
+            "name": "Ariful",
+            "email": "arifsofg@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.5"
+    }
+}
